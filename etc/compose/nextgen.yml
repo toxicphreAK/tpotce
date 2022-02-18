@@ -25,7 +25,6 @@ networks:
   medpot_local:
   rdpy_local:
   redishoneypot_local:
-  ewsposter_local:
   spiderfoot_local:
 
 services:
